@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+}
+.navbar{
+    background-color:black;
+    
+    
+    
+}
+.main_container{
+    border: 2px solid black;
+    /* margin:  100px 100px 100px; */
+    margin-top: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    width: auto;
+}
+.items{
+    display: flex;
+    padding-bottom: 30px;
+   text-decoration: none;
+}
+
+li{
+    margin-right: 50px;
+}
+ul{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.srf{
+    background-color: blanchedalmond;
+    color: black;
+}
+a{
+    color: blanchedalmond;
+    
+}
+.headd{
+    
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    
+}
+.headdd{
+    
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    margin-left: 100px ;
+    
+}
+.namee{
+/* padding-bottom: 30px; */
+margin-left: 20px;
+}
+img{
+  padding-bottom: 20px;
+}
+.job-title{
+   display: flex;
+}
+.profile{
+    padding-bottom: 50px;
+margin-left: 20px;
+}
+.pp{
+    color: orange;
+   
+}
+h3{
+    text-decoration: underline;
+}
+.cv_titles{
+    margin-left: 100px;
+}
+.galleryy{
+    background-color: aqua;
+    height: 100%;
+}
